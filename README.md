@@ -1,3 +1,5 @@
+Hello! I'm Mahsa 😄
+
 I'm a second year PhD student at LSE, department of Mathematics. 
 
 My research is on packing and covering problems in combinatorial optimization. 
