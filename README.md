@@ -1,4 +1,12 @@
-### Hi there 👋
+I'm a second year PhD student at LSE, department of Mathematics. 
+
+My research is on packing and covering problems in combinatorial optimization. 
+
+Here I have included the projects I have done for my courses or in my spare time. 
+
+
+
+
 
 <!--
 **mdalirrooyfard/mdalirrooyfard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
